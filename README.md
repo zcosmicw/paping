@@ -2,7 +2,8 @@
 Paping in your cmd to test server connectivity on a specifed tcp port.
 
 USAGE :
-Put the file in C:\Users\USER and enter execute it by typing "paping" in your cmd
+Windows : Put paping.exe in C:\Users\USER folder and  execute it by typing "paping" in your cmd
+
 
 IMPORTANT :
 "reg add HKCU\Console /v VirtualTerminalLevel /t REG_DWORD /d 1"
